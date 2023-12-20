@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的新闻集</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on 我的新闻集</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 21:52:50 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新闻传播学院</title>
+      <link>https://example.org/posts/%E6%96%B0%E4%BC%A0/</link>
+      <pubDate>Tue, 19 Dec 2023 21:52:50 +0800</pubDate>
+      <guid>https://example.org/posts/%E6%96%B0%E4%BC%A0/</guid>
+      <description> 西北民族大学新闻传播学院是西北民族大学下设的二级学院，是国家民族事务委员会直属院校中第一所独立的新闻院校。
+勤学 敬业 团结 创新 </description>
+    </item>
+    <item>
+      <title>西北民族大学</title>
+      <link>https://example.org/posts/%E8%A5%BF%E5%8C%97%E6%B0%91%E6%97%8F%E5%A4%A7%E5%AD%A6/</link>
+      <pubDate>Tue, 19 Dec 2023 21:16:03 +0800</pubDate>
+      <guid>https://example.org/posts/%E8%A5%BF%E5%8C%97%E6%B0%91%E6%97%8F%E5%A4%A7%E5%AD%A6/</guid>
+      <description>西北民族大学 （Northwest Minzu University）位于甘肃省兰州市，简称“西北民大”（XBMU），是直属中华人民共和国国家民族事务委员会的全日制普通高等本科院校，由国家民族事务委员会、教育部、中国科学院和甘肃省人民政府共建，是中华人民共和国成立后创建的第一所民族高等院校，少数民族骨干计划、国家首批卓越农林人才教育培养计划改革试点高校、甘肃省高水平大学建设单位、CDIO工程教育联盟成员单位、联合国教科文组织中国创业教育联盟理事单位、“一带一路”高校联盟创始成员单位，具有推荐优秀应届本科毕业生免试攻读硕士研究生资格。
+学校肇始于1941年中国共产党在延安创建的延安民族学院，后民族学院并入延安大学，1949年延安大学更名为西北人民革命大学。1950年1月，改建为西北人民革命大学兰州分校第三部。1950年8月，正式成立西北民族学院。2003年4月，西北民族学院更名为西北民族大学。
+截至2023年10月，学校有西北新村校区、榆中校区和附属医院、附属中学、附属小学、附属幼儿园，校园总面积1776亩，总建筑面积77万平方米，图书馆藏图书文献等408万余册/件（含电子图书），教学科研仪器设备总值约5亿余元；设有25个教学科研单位，开设本科专业73个；拥有博士后科研流动站1个，博士学位授权一级学科2个，博士学位授权二级学科3个，硕士学位授权一级学科15个，硕士学位授权二级学科8个，硕士学位授权交叉学科2个，硕士专业学位类别17个；有师生3万余人。
+#实现代码 &amp;lt;iframe src=&amp;#34;//player.bilibili.com/player.html?bvid=BV1rc411G71j&amp;#34; scrolling=&amp;#34;no&amp;#34; border=&amp;#34;0&amp;#34; frameborder=&amp;#34;no&amp;#34; framespacing=&amp;#34;0&amp;#34; allowfullscreen=&amp;#34;true&amp;#34; width=&amp;#34;800px&amp;#34; height=&amp;#34;600px&amp;#34;&amp;gt; &amp;lt;/iframe&amp;gt; 校园手绘俯瞰图</description>
+    </item>
+    <item>
+      <title>hugo ananke 主题的应用及配置</title>
+      <link>https://example.org/posts/%E6%A0%A1%E5%8C%BA/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/%E6%A0%A1%E5%8C%BA/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
